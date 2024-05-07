@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @eyalm2000
 - 🤓 I know Scratch
 
-that's it i guess
+just kidding
 
 
 <!---
