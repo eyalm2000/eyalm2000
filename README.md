@@ -2,7 +2,7 @@
 - 🤓 I know Scratch
 
 that's it i guess
-have a good day 
+
 
 <!---
 eyalm2000/eyalm2000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
