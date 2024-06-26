@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @eyalm2000
-- 🤓 I know Scratch
+- 👋 Hi, I’m @eyalm200
 
-just kidding
 
 
 <!---
