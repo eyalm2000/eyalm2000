@@ -1,8 +1,2 @@
-- 👋 Hi, I’m @eyalm200
+Hi! I’m Eyal Meirom, a 14 year old developer. I am the developer of the [ADNS](https://github.com/eyalm2000/adns) app, which is an Android DNS toggle and a NextDNS client.
 
-
-
-<!---
-eyalm2000/eyalm2000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
