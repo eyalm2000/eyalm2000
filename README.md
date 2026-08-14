@@ -4,7 +4,7 @@
 
 ### Main project
 
-**[ADNS](https://github.com/eyalm2000/adns)** — Private DNS Supercharged
+**[ADNS](https://github.com/eyalm2000/adns)** — Android's Private DNS Supercharged
 
 Native NextDNS client + full Private DNS controller.  
 Supports many providers, custom hostnames, Wi-Fi rules, Quick Settings tile, state notifications, and more.  
