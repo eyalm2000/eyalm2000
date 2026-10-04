@@ -23,10 +23,6 @@ Every NextDNS profile management feature is written natively for Android.
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
 
-### Other projects
-
-- **[tidal-debug-menu](https://github.com/eyalm2000/tidal-debug-menu)** — ReVanced & Morphe patches that unlock TIDAL’s hidden debug menu
-
 ### Support
 
 Sponsorships help me keep developing and maintaining ADNS.
